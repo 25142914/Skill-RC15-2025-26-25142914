@@ -12,8 +12,8 @@ from textblob import TextBlob
 # =========================================================
 # CONFIG
 # =========================================================
-FLICKR_API_KEY = "88d2aed04a09d4dd50bd1f404b7fac54"
-FLICKR_ENDPOINT = "https://www.flickr.com/services/rest/"
+FLICKR_API_KEY = ""
+FLICKR_ENDPOINT = ""
 
 # Bounding box (min_lon, min_lat, max_lon, max_lat)
 CASTELLO_BBOX = (12.3348, 45.42430, 12.36928, 45.44128)
